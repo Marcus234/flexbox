@@ -1,0 +1,18 @@
+
+    
+    .titulo {
+        color: red;
+    }
+    .fonte {
+        font-size: 4em;
+    }
+    #nascimento {
+        color: green;
+    }
+    input[type$="ext"] {
+        color: blue;
+    }
+    input[type="text"]:focus {
+        color: green;
+        font-size: 2em;
+    }
